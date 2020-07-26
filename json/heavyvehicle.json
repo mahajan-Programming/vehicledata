@@ -1,0 +1,33 @@
+{
+    "heavyvehicle":[
+        {
+            "olectra":[
+                {
+                    "name":"Olectra K6",
+                    "input-voltage":"Three phase AC 380 V / 440 V",
+                    "input-current":"< 126A",
+                    "Length/Width/Height:":"690 mm /400 mm / 200 mm",
+                    "battery-type":"Lead Acid, 48V"
+
+                },
+                {
+                    "name":"Olectra K6",
+                    "input-voltage":"Three phase AC 380 V / 440 V",
+                    "input-current":"< 126A",
+                    "Length/Width/Height:":"690 mm /400 mm / 200 mm",
+                    "battery-type":"Lead Acid, 48V"
+                }
+            ],
+            "ashok":[
+                {
+                    "Torque":"600 Nm @ 500 rpm",
+                    "Max Output ( HP)":"200 HP @ 500 rpm",
+                    "Length/Width/Heigh":"11085/2500 mm",
+                    "Seating Capacity(Excluding Driver)":"44",
+                    "Speed Index":"95"
+                }
+            ]
+
+        }
+    ]
+}
